@@ -90,7 +90,7 @@ for idx in near_boundary_indices:
 # Polars DataFrameに変換してCSVに出力
 if boundary_samples:
     df_boundary = pl.DataFrame(boundary_samples)
-    df_boundary.write_csv("samples_near_boundary.csv")
+    df_boundary.write_csv("Data/samples_near_boundary.csv")
     print(f"\nFound {len(df_boundary)} samples near the decision boundary. Saved to 'samples_near_boundary.csv'.")
 else:
     print("\nNo samples found near the decision boundary with the current threshold.")
