@@ -1,0 +1,37 @@
+RequirementText,TrueLabel,PredictedLabel,Distance
+The system shall enable user to add one or more component to the configuration.,F,F,0.008276564084878757
+The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.,F,MN,0.0032436285584651614
+New and Delete buttons will allow the physician/pharmacist to add a notation to the patient's file.,F,F,0.03655633507021783
+Aside from server failure  the software product shall achieve 99.99% up time.,A,F,0.03963412348609552
+The system shall provide multi language support.,US,F,0.004307830592194861
+The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,FT,F,0.007022117943121131
+The system shall provide handicap access.,US,F,0.0067550400160296675
+The leads washing functionality will store any potential lead duplicates returned by the enterprise system.,F,F,0.011578627029319222
+The product shall have a conservative and professional appearance.,LF,F,0.012600782903346541
+It should generate a report about registered complaint to the admin and response report to the user who has submitted his queries.,F,F,0.008296002140575354
+The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.,US,F,0.0407503708949708
+Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.,F,F,0.016942579232804178
+PME Subsystem shall allow building product menus based on the list of products kept in the accounting system.,F,O,0.001029657851466581
+Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.,SE,F,0.01905537883069286
+When the hit results in sinking a ship  the product shall indicate the type of ship sunk on the defensive grid of the defensive player.,F,F,0.008558736543909262
+The system shall resolve the zipcode for the street address  city  and state if zipcode is unknown.,F,F,0.029131596207756516
+The ratings shall be from a scale of 1-10,F,F,0.02315070460068469
+Reports must be easy to generate. Reports must be generated within one button click and exported within one button click (after selecting the report),US,F,0.026825363643608213
+The leads washing functionality shall receive a period list of available reps from the enterprise system.,F,F,0.00950273441310756
+The streaming server will have anti-virus software to prevent infection of malicious viruses.,SE,F,0.022535527764089736
+System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.,F,F,0.007827283948421027
+Navigation to each selected tab.,F,SE,0.0005164201997889251
+The meeting scheduler system shall cancel a meeting due to canceling of an important participant.,F,O,0.010107809947061952
+The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.,PE,F,0.0130638508475176
+The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.,SE,F,0.01480705848726771
+The system shall allow the mediator to negotiate a location / equipment.,F,F,0.03532770769228577
+Each page shall contain a similar format with action items in one location and navigation buttons in a different location.,LF,LF,0.013480977809900097
+All source code shall adhere to an agreed upon and well-defined set of coding standards for each development language used.,MN,F,0.012852814735564877
+The system shall be compatible with IIS6.0 and above or  Apache 2.0 and above.,PO,A,0.019524111690140344
+Website shall allow customers to purchase pre-paid cards of $5  $10  or $20 value either by credit card or mail-in payment option.,F,F,0.015482204387806675
+The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.,F,SC,0.05851857745800437
+Contact with the vendors and give permission to sell their product under the site after testing the product's quality.,F,A,0.01460302692393789
+A waiter shall only be able to log into one tablet at any given instance of time.,SE,LF,0.005404635317812989
+The realtor shall be notified of new client appointments after automatic synchronization with office system,F,F,0.015457582045062424
+The system shall provide browsing options to see product details.,F,F,0.02077238008764226
+The product shall record meeting entries.,F,F,0.016831041977360073
